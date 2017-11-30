@@ -51,5 +51,10 @@ namespace Gunner_OrderList
         {
 
         }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
